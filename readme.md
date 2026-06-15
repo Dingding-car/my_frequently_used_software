@@ -7,10 +7,12 @@
 ## 📈 1. 效率办公与管理
 
 - `📁 文件收纳` : [Pogget](https://pogget.vilinko.com/)——桌面文件和图标收纳工具
-- `📸 截图工具` : [Snipaste](https://zh.snipaste.com/)——无边框截图工具
+- `📸 截图工具` : [Snipaste](https://zh.snipaste.com/)——无边框截图工具（正在尝试更换[PixPin](https://pixpin.cn/)）
 - `🎵 本地播放器` : [Potplayer](https://potplayer.tv/?lang=zh_CN)
-- `📦 压缩解压` : 7z——官网不好进
+- `🗜️ 压缩解压` : 7z——官网不好进
+- `📦 包管理工具` : [UniGetUI](https://github.com/Devolutions/UniGetUI)——应用商店
 
 ## 🎨 2. 桌面美化
 
 - `🖼️ 状态栏美化` : [TranslucentTB](https://translucenttb.net/)——状态栏模糊和透明工具
+- `⚓ Dock栏` : [PowerToys](https://github.com/microsoft/PowerToys)——命令面板中的一个功能
